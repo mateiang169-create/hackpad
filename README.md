@@ -33,7 +33,7 @@ The primary goal of this project was to design a functional, aesthetically pleas
 ## 📂 Repository Structure & File Organization
 To maintain a clean and professional workflow compliant with hardware open-source standards, the repository is structured into distinct, dedicated directories:
 
-```text
+
 ├── CAD/              # Contains 3D computer-aided design files, step models, and fusion assemblies
 ├── Firmware/         # Contains source code, configuration scripts, and compiled binaries for the RP2040
 ├── PCB/              # Contains KiCad schematic (.sch/.kicad_sch), layout (.kicad_pcb), and project files
