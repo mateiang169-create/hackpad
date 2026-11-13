@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC,Quantity
+SW_Push,SW1,SW_Cherry_MX_1.00u_Plate,,1
+1N4148,D2,D_DO-35_SOD27_P7.62mm_Horizontal,,1
+SW_Push,SW3,SW_Cherry_MX_1.00u_Plate,,1
+SW_Push,SW2,SW_Cherry_MX_1.00u_Plate,,1
+1N4148,D1,D_DO-35_SOD27_P7.62mm_Horizontal,,1
+ER_OLEDM0.91_1x-I2C,U2,ER_OLEDM0.91_1x-I2C,,1
+1N4148,D5,D_DO-35_SOD27_P7.62mm_Horizontal,,1
+MOUDLE-SEEEDUINO-XIAO,U1,XIAO-Generic-Hybrid-14P-2.54-21X17.8MM,,1
+1N4148,D3,D_DO-35_SOD27_P7.62mm_Horizontal,,1
+SW_Push,SW4,SW_Cherry_MX_1.00u_Plate,,1
+1N4148,D4,D_DO-35_SOD27_P7.62mm_Horizontal,,1
+RotaryEncoder_Switch,SW5,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,,1

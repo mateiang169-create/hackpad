@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,115.79,-63.95,0.0,top
+D2,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,115.79,-67.5,0.0,top
+D3,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,115.79,-71.05,0.0,top
+D4,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,115.79,-74.6,0.0,top
+D5,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,167.0,-53.0,0.0,top
+SW1,SW_Push,SW_Cherry_MX_1.00u_Plate,123.365,-84.71,0.0,top
+SW2,SW_Push,SW_Cherry_MX_1.00u_Plate,145.165,-84.71,0.0,top
+SW3,SW_Push,SW_Cherry_MX_1.00u_Plate,167.165,-84.71,0.0,top
+SW4,SW_Push,SW_Cherry_MX_1.00u_Plate,145.165,-62.71,0.0,top
+SW5,RotaryEncoder_Switch,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,167.588706,-65.047492,0.0,top
+U1,MOUDLE-SEEEDUINO-XIAO,XIAO-Generic-Hybrid-14P-2.54-21X17.8MM,116.825,-50.4,0.0,top
+U2,ER_OLEDM0.91_1x-I2C,ER_OLEDM0.91_1x-I2C,139.9,-44.2,90.0,top
