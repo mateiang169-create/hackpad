@@ -1,1 +1,14 @@
-Item,Quantity,Unit Price ($),Total Price ($),Source,NotesCustom PCB + 3D Printed Resin Case,1,15.18,15.18,JLCPCB,Includes PCB fabrication + SLA transparent resin case + shippingM3x8mm Stainless Steel Hex Socket Screws (pack of 50),1,4.40,4.40,AliExpress,ISO7380 M3 bolts (4 used for case assembly)[cite: 5]M3x3x5.0mm Brass Heat-Set Inserts (pack of 200),1,9.85,9.85,AliExpress,OD 5.0mm for 4.70mm case holes (4 used)[cite: 5]R4 Transparent ABS Keycaps (pack of 6),1,3.50,3.50,AliExpress,MX stem (4 used / 2 spares)[cite: 5]Outemu Linear Silver Switches (pack of 10),1,2.71,2.71,AliExpress,3-pin MX compatible (4 used / 6 spares)1N4148 Switching Diodes (pack of 100),1,2.00,2.00,AliExpress,DO-35 through-hole (5 used)[cite: 5, 6]0.91 inch I2C OLED Display (128x32 SSD1306 White),1,4.29,4.29,AliExpress,4-pin I2C (GND/VCC/SCL/SDA)[cite: 5, 6]Seeed Studio XIAO RP2040,1,5.07,5.07,AliExpress,Single board without headers (castellated pads)[cite: 6]15mm Aluminum Rotary Knob (Black pack of 5),1,2.96,2.96,AliExpress,6mm D-shaft hole (1 used)[cite: 6]EC11 Rotary Encoder (15mm D-shaft),1,0.76,0.76,AliExpress,5-pin with push button (no breakout PCB)[cite: 6]AliExpress Shipping & Discounts Net Total,1,15.40,15.40,AliExpress,$16.21 shipping minus $0.81 coupon (matches $50.94 cart total)[cite: 5, 6]Price & Stock Fluctuation Buffer,1,8.88,8.88,Buffer,Safety margin for AliExpress stock changes, shipping & EUR/USD rateTOTAL,,,75.00,,
+Item,Quantity,Unit Price ($),Total Price ($),Source,Notes
+Custom PCB + 3D Printed Resin Case,1,15.18,15.18,JLCPCB,Includes PCB fabrication + SLA transparent resin case + shipping
+M3x8mm Stainless Steel Hex Socket Screws (pack of 50),1,4.40,4.40,AliExpress,ISO7380 M3 bolts (4 used for case assembly)
+M3x3x5.0mm Brass Heat-Set Inserts (pack of 200),1,9.85,9.85,AliExpress,OD 5.0mm for 4.70mm case holes (4 used)
+R4 Transparent ABS Keycaps (pack of 6),1,3.50,3.50,AliExpress,MX stem (4 used / 2 spares)
+Outemu Linear Silver Switches (pack of 10),1,2.71,2.71,AliExpress,3-pin MX compatible (4 used / 6 spares)
+1N4148 Switching Diodes (pack of 100),1,2.00,2.00,AliExpress,DO-35 through-hole (5 used)
+0.91 inch I2C OLED Display (128x32 SSD1306 White),1,4.29,4.29,AliExpress,4-pin I2C (GND/VCC/SCL/SDA)
+Seeed Studio XIAO RP2040,1,5.07,5.07,AliExpress,Single board without headers (castellated pads)
+15mm Aluminum Rotary Knob (Black pack of 5),1,2.96,2.96,AliExpress,6mm D-shaft hole (1 used)
+EC11 Rotary Encoder (15mm D-shaft),1,0.76,0.76,AliExpress,5-pin with push button (no breakout PCB)
+AliExpress Shipping & Discounts Net Total,1,15.40,15.40,AliExpress,$16.21 shipping minus $0.81 coupon (matches $50.94 cart total)
+Price & Stock Fluctuation Buffer,1,8.88,8.88,Buffer,Safety margin for AliExpress stock changes and shipping/EUR-USD rate
+TOTAL,,,75.00,,
